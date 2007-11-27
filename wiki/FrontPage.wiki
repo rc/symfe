@@ -3,3 +3,9 @@
 SymFE will be a library for symbolic finite element calculations in pure Python, based on [http://code.google.com/p/sympy/ SymPy]. Optionally, it will seamlessly provide an interface (invisible to user) to other packages for symbolic computations accessible from Python, namely [http://swiginac.berlios.de/ swiginac], for users willing speed.
 
 Mailing list: [http://groups.google.com/group/symfe-devel symfe-devel]
+
+== Downloads ==
+
+Mercurial repository: http://hg.sympy.org/symfe
+
+SymFE is in development, currently only accessible from our hg repository.
